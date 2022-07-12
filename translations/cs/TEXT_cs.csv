@@ -1,0 +1,4 @@
+"location","source","target","id","fuzzy","context","translator_comments","developer_comments"
+"Text.d:5","Kiste","Bedna","","False","MOBNAME_CRATE","",""
+"Text.d:6","Truhe","Truhla","","False","MOBNAME_CHEST","",""
+"Text.d:7","Bett","Postel","","False","MOBNAME_BED","",""
