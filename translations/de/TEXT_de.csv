@@ -1,3 +1,3 @@
-Text.d:5,Kiste,,,,,,
-Text.d:6,Truhe,,,,,,
-Text.d:7,Bett,,,,,,
+Text.d:5,Kiste,,,,MOBNAME_CRATE,,
+Text.d:6,Truhe,,,,MOBNAME_CHEST,,
+Text.d:7,Bett,,,,MOBNAME_BED,,
