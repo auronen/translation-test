@@ -1,4 +1,4 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Text.d:5","Kiste","","","","","",""
-"Text.d:6","Truhe","","","","","",""
-"Text.d:7","Bett","","","","","",""
+"Text.d:5","Kiste","Bedna","","False","","",""
+"Text.d:6","Truhe","Truhla","","False","","",""
+"Text.d:7","Bett","Postel","","False","","",""
