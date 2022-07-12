@@ -1,4 +1,4 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Text.d:5","Kiste","","","","MOBNAME_CRATE","",""
-"Text.d:6","Truhe","","","","MOBNAME_CHEST","",""
-"Text.d:7","Bett","","","","MOBNAME_BED","",""
+"Text.d:5","Kiste","Crate","","False","MOBNAME_CRATE","",""
+"Text.d:6","Truhe","Chest","","False","MOBNAME_CHEST","",""
+"Text.d:7","Bett","Bed","","False","MOBNAME_BED","",""
