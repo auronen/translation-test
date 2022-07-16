@@ -1,4 +1,4 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"SVM.d:329","Für den König!","","","","","",""
-"SVM.d:330","Für Innos!","","","","","",""
-"SVM.d:331","So ein Mistwetter!","","","","","",""
+"SVM.d:329","Für den König!","For the king!","","False","","",""
+"SVM.d:330","Für Innos!","For Innos!","","False","","",""
+"SVM.d:331","So ein Mistwetter!","Crappy weather!","","False","","",""
