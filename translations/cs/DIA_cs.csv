@@ -1,0 +1,7 @@
+"location","source","target","id","fuzzy","context","translator_comments","developer_comments"
+"Scripts/Content/Story/Dialoge/DIA_TEST_TRADER.d:59","Zeig mir deine Ware.","Ukaž mi své zboží.","","False","TEST_TRADER_Trade_15_00","",""
+"Scripts/Content/Story/Dialoge/DIA_TEST_TRADER.d:60","Mit dem größten Vergnügen.","S největší radostí.","","False","TEST_TRADER_Trade_04_01","",""
+"Scripts/Content/Story/Dialoge/DIA_TEST_TRADER.d:85","Wie läuft's?","Jak to jde?","","False","TEST_TRADER_SomeInfo_15_00","",""
+"Scripts/Content/Story/Dialoge/DIA_TEST_TRADER.d:86","Könnte nicht besser laufen. Wegen der Spannungen mit dem Neuen Lager will jeder Buddler eine Waffe haben, weil sie sich der Illusion hingeben, dass sie sich damit gegen Banditen wehren könnten. ","","","","TEST_TRADER_SomeInfo_04_01","",""
+"Scripts/Content/Story/Dialoge/DIA_TEST_TRADER.d:87","Ich kann die Preise deswegen wunderbar hochdrücken. Außer für dich natürlich, mein Freund.","","","","TEST_TRADER_SomeInfo_04_02","",""
+"Scripts/Content/Story/Dialoge/DIA_TEST_TRADER.d:88","Du bist ein wunderbarer Mensch.","","","","TEST_TRADER_SomeInfo_15_03","",""
