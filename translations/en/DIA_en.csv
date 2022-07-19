@@ -1,6 +1,6 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/Content/Story/Dialoge/DIA_TEST_TRADER.d:47","Zeig mir deine Ware.","","","","TEST_TRADER_Trade","",""
-"Scripts/Content/Story/Dialoge/DIA_TEST_TRADER.d:59","Zeig mir deine Ware.","","","","TEST_TRADER_Trade_15_00","",""
+"Scripts/Content/Story/Dialoge/DIA_TEST_TRADER.d:47","Zeig mir deine Ware.","Show me your goods.","","False","TEST_TRADER_Trade","",""
+"Scripts/Content/Story/Dialoge/DIA_TEST_TRADER.d:59","Zeig mir deine Ware.","Show me your goods.","","True","TEST_TRADER_Trade_15_00","",""
 "Scripts/Content/Story/Dialoge/DIA_TEST_TRADER.d:60","Mit dem größten Vergnügen.","","","","TEST_TRADER_Trade_04_01","",""
 "Scripts/Content/Story/Dialoge/DIA_TEST_TRADER.d:74","Wie läuft's??","","","","TEST_TRADER_SomeInfo","",""
 "Scripts/Content/Story/Dialoge/DIA_TEST_TRADER.d:85","Wie läuft's?","","","","TEST_TRADER_SomeInfo_15_00","",""
